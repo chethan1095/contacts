@@ -1,4 +1,6 @@
-   {
+{
+  "CONTACTSLIST": [
+    {
       "name": "Albert",
       "email": "abbott@withinpixels.com",
       "phone": "+1-202-555-0175",
@@ -21,10 +23,6 @@
       "email": "Katina@withinpixels.com",
       "phone": "+1-125-888-1456",
       "id": 4
-    },
-    {
-      "name": "chethan",
-      "email": "chethanbv.10@gmail.com",
-      "phone": "+91-741-166-7095",
-      "id": 5
     }
+  ]
+}
